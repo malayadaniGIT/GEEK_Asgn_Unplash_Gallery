@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GEEK_Asgn_Unplash_Gallery/static/css/main.cd799d02.css",
+    "main.js": "/GEEK_Asgn_Unplash_Gallery/static/js/main.6acd9ceb.js",
+    "static/js/787.2d4b1052.chunk.js": "/GEEK_Asgn_Unplash_Gallery/static/js/787.2d4b1052.chunk.js",
+    "index.html": "/GEEK_Asgn_Unplash_Gallery/index.html",
+    "main.cd799d02.css.map": "/GEEK_Asgn_Unplash_Gallery/static/css/main.cd799d02.css.map",
+    "main.6acd9ceb.js.map": "/GEEK_Asgn_Unplash_Gallery/static/js/main.6acd9ceb.js.map",
+    "787.2d4b1052.chunk.js.map": "/GEEK_Asgn_Unplash_Gallery/static/js/787.2d4b1052.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd799d02.css",
+    "static/js/main.6acd9ceb.js"
+  ]
+}
